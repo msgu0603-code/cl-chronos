@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use CL-CHRONOS in your research or software, please cite it using the metadata below."
+type: software
+title: "CL-CHRONOS: Cognitive-Load & Chronobiological Heuristic Resource Optimization Network Operating Scheduler"
+version: 1.0.0
+date-released: 2026-11-13
+url: "https://github.com/msgu0603-code/cl-chronos"
+repository-code: "https://github.com/msgu0603-code/cl-chronos"
+license: AGPL-3.0-only
+authors:
+  - family-names: "Guevara Ulloa"
+    given-names: "Martín Sebastián"
+    email: "msgu0603@gmail.com"
+    orcid: "https://orcid.org/0009-0008-1196-5154"
+    affiliation: 'Unidad Educativa "La Inmaculada", Ambato, Ecuador'
+keywords:
+  - cognitive-load-theory
+  - chronobiology
+  - heuristic-optimization
+  - constraint-based-scheduling
+  - interleaved-practice
+  - burnout-prevention
+  - explainable-ai

@@ -1,0 +1,29 @@
+# Entornos virtuales de Python
+.venv/
+venv/
+ENV/
+env/
+
+# Bytecode y cachés de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Variables de entorno y credenciales privadas (CRÍTICO)
+.env
+*.env
+firebase-credenciales.json
+*credentials*.json
+
+# Base de datos local y estáticos compilados
+db.sqlite3
+db.sqlite3-journal
+staticfiles/
+media/
+
+# Archivos de sistema e IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
